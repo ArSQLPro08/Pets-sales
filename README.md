@@ -1,3 +1,4 @@
+📊 Dashboard Goals:
 
 Track top-selling pet product categories.
 
