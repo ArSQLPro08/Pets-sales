@@ -45,3 +45,8 @@ Microsoft Excel
 Pivot Tables
 
 Basic formulas (SUM, AVERAGE, Calculated Fields)
+
+![pet](https://github.com/user-attachments/assets/efc6dd0f-e33f-40d8-a1f1-d1e5452a4c71)
+
+
+
